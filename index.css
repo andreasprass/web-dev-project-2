@@ -55,20 +55,13 @@ body{
 }
 .button-style h4{
   margin: 0;
-  color: #3E4543;
 }
 #btn:hover {
-  color: white;
-  background: #5F6F6E;
+    color: white;
+    background: #5F6F6E;
+    transition: 400ms;
 }
 
-#btn:hover #circle {
-  height: 50px;
-  width: 150px;
-  left: 0;
-  border-radius: 0;
-  border-bottom: 2px solid #eee;
-}
 .hero{
   width: 50vw;
   height: 100%;
